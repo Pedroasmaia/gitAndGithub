@@ -1,5 +1,5 @@
 # Git e Github
 
-![GitAndGithub.png](Imagem com a logo das tecnologias)
+![Imagem com a logo das tecnologias](GitAndGithub.png)
 
 Este repositório serve para o curso de Git e Github
